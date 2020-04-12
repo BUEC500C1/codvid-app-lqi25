@@ -32,11 +32,12 @@ npm start
   5. Go to the metro builder and run android emulator
 - Change the contents of App.js in the helloproject folder, the results are as follows：
 <p align="center">   
-<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_1.png"/> 
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_1.png" width="300" height="800"/> 
 </p>  
 <p align="center">   
 <img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_2.png"/> 
-</p>  
+</p>     
 ### Step3: Develop use case to display a map.
-### Step4: On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.    ### Step5：Overlay the data on the maps
+### Step4: On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.    
+### Step5：Overlay the data on the maps
  
