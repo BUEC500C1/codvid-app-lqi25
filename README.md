@@ -23,7 +23,20 @@ expo init helloproject
 cd helloproject
 npm start
 ```
-### Step2：Go through REACT native Tutorial
+### Step2：Go through REACT native Tutorial[Done]
+- Expo run on Android emulator using windows 10
+  1. Install Android Studio and open helloproject project
+  2. Open the AVD Manager and install the Android emulator
+  3. Run the emulator before running the project
+  4. Run expo start to start project
+  5. Go to the metro builder and run android emulator
+- Change the contents of App.js in the helloproject folder, the results are as follows：
+<p align="center">   
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_1.png"/> 
+</p>  
+<p align="center">   
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_2.png"/> 
+</p>  
 ### Step3: Develop use case to display a map.
 ### Step4: On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.    ### Step5：Overlay the data on the maps
  
