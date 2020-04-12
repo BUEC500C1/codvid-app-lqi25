@@ -32,13 +32,13 @@ npm start
   5. Go to the metro builder and run android emulator
 - Change the contents of App.js in the helloproject folder, the results are as follows：
 <p align="center">   
-<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_1.png" width="300" height="650"/> 
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_1.png" width="300" height="630"/> 
 </p>  
 <p align="center">   
-<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_3.png" width="300" height="650"/> 
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_3.png" width="300" height="630"/> 
 </p>  
 <p align="center">   
-<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_2.png" width="300" height="650"/> 
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_2.png" width="300" height="630"/> 
 </p>        
    
 ### Step3: Develop use case to display a map.
