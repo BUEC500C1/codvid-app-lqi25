@@ -24,12 +24,7 @@ cd helloproject
 npm start
 ```
 ### Step2：Go through REACT native Tutorial[Done]
-- [Expo run on Android emulator using windows 10](https://stackoverflow.com/questions/52751874/expo-run-on-android-emulator-using-windows-10)
-  1. Install Android Studio and open helloproject project
-  2. Open the AVD Manager and install the Android emulator
-  3. Run the emulator before running the project
-  4. Run expo start to start project
-  5. Go to the metro builder and run android emulator
+- React-native run on Android emulator using windows 10
 - Change the contents of App.js in the helloproject folder, the results are as follows：
 <p align="center">   
 <img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_1.png" width="300" height="630"/> 
