@@ -36,7 +36,7 @@ npm start
 <img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_2.png" width="300" height="630"/> 
 </p>        
    
-### Step3: Develop use case to [display a map](https://github.com/react-native-community/react-native-maps).
+### Step3: Develop use case to [display a map](https://github.com/react-native-community/react-native-maps)[Done]
 - Install the React Native and create a project named mapgoogle.Run the app with Android emulator
 ```
 npm install -g react-native-cli
@@ -52,6 +52,9 @@ react-native link react-native-maps
 ```
 npx react-native android-run
 ```
+<p align="center">   
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step32.png" width="300" height="630"/> 
+</p> 
 
 ### Step4: On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.    
 ### Step5：Overlay the data on the maps
