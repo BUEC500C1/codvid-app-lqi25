@@ -32,6 +32,6 @@ npx react-native run-android
 - After running the project, you can see the constantly updated global codvid-19 infection status on the main interface, including the updated time, active cases, newconfirmed cases,totalconfirmed cases,new deaths,total deaths and so on.
 <p align="center">   
 <img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/step4.png" width="300" height="630"/> 
-</p>   
+</p>      
 ### Step5：Overlay the data on the maps
  
