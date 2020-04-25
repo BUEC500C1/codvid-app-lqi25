@@ -11,51 +11,23 @@
   - User can put their address and track CODVID-19 in their neighborhood (Only in countries where regional data is provided)
  
 ## Steps
-### Step1：Setup your REACT Native Environment[Done]
-- Install [Node 12 LTS](https://nodejs.org/en/download/)
-- Open terminal,use npm to install the Expo CLI command line utility
+### Preparation
+- Open the mapgoogle folder in the terminal.
+- In order to install the components required by the project, you need to run the following command in the terminal：
 ```
-npm install -g expo-cli
+npm install @react-navigation/native
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install @react-navigation/stack
+npm install react-native-maps --save-exact
+npm install react-native-datepicker --save
+npm i react-native-elements --save
+npm i --save react-native-vector-icons
+react-native link react-native-vector-icons
 ```
-- Create a new project and start a development server
+- Open the android emulator and run the project:
 ```
-expo init helloproject
-cd helloproject
-npm start
+npx react-native run-android
 ```
-### Step2：Go through REACT native Tutorial[Done]
-- React-native run on Android emulator using windows 10
-- Change the contents of App.js in the helloproject folder, the results are as follows：
-<p align="center">   
-<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_1.png" width="300" height="630"/> 
-</p>  
-<p align="center">   
-<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_3.png" width="300" height="630"/> 
-</p>  
-<p align="center">   
-<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step2_2.png" width="300" height="630"/> 
-</p>        
-   
-### Step3: Develop use case to [display a map](https://github.com/react-native-community/react-native-maps)[Done]
-- Install the React Native and create a project named mapgoogle.Run the app with Android emulator
-```
-npm install -g react-native-cli
-react-native init ReactNativeMaps
-react-native run-ios
-```
-- Install react-native-map and link it to my app
-```
-npm install --save react-native-maps
-react-native link react-native-maps
-```
-- Follow the [tutorial](https://github.com/react-native-community/react-native-maps/blob/master/docs/installation.md) to create the app and run it with the following command
-```
-npx react-native android-run
-```
-<p align="center">   
-<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step32.png" width="300" height="630"/> 
-</p> 
-
 ### Step4: On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.    
 ### Step5：Overlay the data on the maps
  
