@@ -44,7 +44,7 @@ npx react-native run-android
 - Each marker on the map represents a country, move the map, click on the marker to get the country name and the number of active cases on the day of the search. 
 - Click RETURN to return to the main screen.
 <p align="center">   
-<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/one.gif"/> 
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/two.gif"/> 
 </p>
 <p align="center">   
 <img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/first.gif"/> 
@@ -57,7 +57,7 @@ npx react-native run-android
 - Each marker on the map represents a country, move the map, click on the marker to get the country name and infection status, including TotalConfirmed cases, NewConfirmed cases, TotalDeaths, NewDeaths, TotalRecovered cases and NewRecovered cases.
 - Click RETURN to return to the main screen.
 <p align="center">   
-<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/two.gif"/> 
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/one.gif"/> 
 </p>
 <p align="center">   
 <img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/second.gif"/> 
