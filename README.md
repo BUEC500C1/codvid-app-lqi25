@@ -12,6 +12,7 @@
  
 ## Steps
 ### Preparation
+- Code in the [mapgoogle](https://github.com/BUEC500C1/codvid-app-lqi25/tree/codvid-19/code/mapgoogle) folder
 - Open the mapgoogle folder in the terminal.
 - In order to install the components required by the project, you need to run the following command in the terminal：
 ```
