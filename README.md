@@ -28,6 +28,10 @@ react-native link react-native-vector-icons
 ```
 npx react-native run-android
 ```
-### Step4: On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.    
+### Step4: On separate branch, exercise the [CODVID-19 API](https://covid19api.com/) ([Documentation using postman](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest)) and display the data in your application as text.[Done]
+- After running the project, you can see the constantly updated global codvid-19 infection status on the main interface, including the updated time, active cases, newconfirmed cases,totalconfirmed cases,new deaths,total deaths and so on.
+<p align="center">   
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/step4.png" width="300" height="630"/> 
+</p>   
 ### Step5：Overlay the data on the maps
  
