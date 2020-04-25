@@ -31,10 +31,10 @@ npx react-native run-android
 ### Step4: On separate branch, exercise the [CODVID-19 API](https://covid19api.com/) ([Documentation using postman](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest)) and display the data in your application as text.[Done]
 - After running the project, you can see the constantly updated global codvid-19 infection status on the main screen, including the updated time, active cases, newconfirmed cases,totalconfirmed cases,new deaths,total deaths and so on.
 <p align="center">   
-<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/step4.png" width="300" height="630"/> 
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/step4.png" /> 
 </p>
    
-### Step5：Overlay the data on the maps
+### Step5：Overlay the data on the maps[Done]
 #### Global Active Cases
 - This function displays the number of active cases in each country at the selected date.
 - Click the Global Active Cases button on the main screen to jump to a new screen.
@@ -45,7 +45,10 @@ npx react-native run-android
 <p align="center">   
 <img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/one.gif"/> 
 </p>
-   
+<p align="center">   
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/first.gif"/> 
+</p>
+     
 #### Global Cases on Map
 - This function displays the latest data on infection status in each country.
 - Click the Global Cases on Map button on the main screen to jump to a new screen.
@@ -54,6 +57,9 @@ npx react-native run-android
 - Click RETURN to return to the main screen.
 <p align="center">   
 <img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/two.gif"/> 
+</p>
+<p align="center">   
+<img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/codvid-19/img/second.gif"/> 
 </p>
    
 #### Search and Get More Information
