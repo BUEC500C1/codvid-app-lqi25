@@ -56,6 +56,9 @@ npx react-native android-run
 <img src="https://github.com/BUEC500C1/codvid-app-lqi25/blob/master/img/step32.png" width="300" height="630"/> 
 </p> 
 
-### Step4: On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.    
-### Step5：Overlay the data on the maps
+### Step4: On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.[Done]
+- View [codvid-19](https://github.com/BUEC500C1/codvid-app-lqi25/tree/codvid-19) branch.
+   
+### Step5：Overlay the data on the maps[Done]
+- View [codvid-19](https://github.com/BUEC500C1/codvid-app-lqi25/tree/codvid-19) branch.
  
